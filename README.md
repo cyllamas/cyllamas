@@ -1,6 +1,6 @@
 👋 Hi, I’m Catrina Llamas (she/her) or @cyllamas here on GitHub.
 I'm a second-year Machine Learning student at NorQuest College
-and I'll be posting any relevant works here.
+and I'll be posting my work here.
 
 You can reach me via LinkedIn -> https://www.linkedin.com/in/catrina-llamas/
 
